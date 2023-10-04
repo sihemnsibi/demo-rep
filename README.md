@@ -1,2 +1,2 @@
-#testing
-trsting git commands 
+#test
+testing git commands 
